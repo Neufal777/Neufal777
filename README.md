@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on JanusGraph
 - 🤔 I’m looking for help with Statistics
 - 💬 Ask me about Anything!
-- 📫 How to reach me: neufal777@gmail.com
+- 📫 How to reach me: [Instagram](https://www.instagram.com/neufal79) , [Linkedin](https://www.linkedin.com/in/naoufal-d-4005a1133/)
 - 😄 Favourite Artist: EMINƎM
 
 
