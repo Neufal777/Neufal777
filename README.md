@@ -1,7 +1,7 @@
 ### what's up! 👋
 
 
-- 🔭 I’m currently working on Carina(secret project)
+- 🔭 I’m currently working on Mercury(secret project)
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on JanusGraph
 - 🤔 I’m looking for help with Statistics
